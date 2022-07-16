@@ -1,4 +1,4 @@
-package com.mogydan.estore.ProductService.rest;
+package com.mogydan.estore.productservice.rest;
 
 import org.springframework.web.bind.annotation.*;
 
